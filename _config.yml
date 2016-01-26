@@ -1,0 +1,28 @@
+name: peterparker
+favicon: null
+layout_spectrum: 0.7513663626741618
+typography_spectrum: 0.7461290413048118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13823081692680717
+  lightness: 0.07332622352987528
+  saturation: 0.7871639851946384
+  rhythmicContrast: 0.7065259818919003
+purpose: []
